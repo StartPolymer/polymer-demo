@@ -30,6 +30,12 @@ bower install polymer-demo --save
 <link rel="import" href="/bower_components/polymer-demo/polymer-demo.html"/>
 ```
 
+### index.html
+
+```html
+<polymer-demo></polymer-demo>
+```
+
 ## Contributing :+1:
 
 1. Fork it
