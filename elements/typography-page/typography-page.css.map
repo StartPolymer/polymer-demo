@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEI,eAAI;EACF,MAAM,EAAE,IAAI;;AAGd,eAAI;EACF,MAAM,EAAE,IAAI;;AAIhB,qBAAkB;EAChB,UAAU,EAAE,IAAI;EAChB,KAAK,EAAE,KAAK;;AAGd,mBAAgB;EACd,UAAU,EAAE,IAAI;;;AAIpB,KAAM;EACJ,UAAU,EAAE,IAAI;;;AAGlB;;;EAGG;EACD,MAAM,EAAE,CAAC",
+"sources": ["../../../elements/typography-page/typography-page.scss"],
+"names": [],
+"file": "typography-page.css"
+}
