@@ -15,6 +15,7 @@ or [Polymer generator](https://github.com/yeoman/generator-polymer).
  - You don't need [calculating a selector's specificity](http://www.w3.org/TR/css3-selectors/#specificity)
 - Using [Polymer Theme](https://github.com/StartPolymer/polymer-theme) based on
 [BEM Methodology](http://getbem.com)
+- [Custom icons](https://github.com/StartPolymer/polymer-demo/blob/master/elements/custom-icons/custom-icons.html) element
 
 ## Installation
 
