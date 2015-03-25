@@ -31,5 +31,6 @@ new Polymer({
   },
   ready: function() {
     console.log('<themes-menu> element is ready to rock!');
+    document.querySelector('body').setAttribute('class', 'polymer-theme-indigo-pink');
   }
 });
