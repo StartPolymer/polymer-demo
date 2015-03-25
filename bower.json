@@ -1,10 +1,10 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "polymer-demo",
   "private": true,
   "dependencies": {
     "core-elements": "Polymer/core-elements#^0.5",
     "paper-elements": "Polymer/paper-elements#^0.5",
     "polymer": "Polymer/polymer#^0.5",
-    "polymer-demo": "StartPolymer/polymer-demo#master"
+    "polymer-theme": "StartPolymer/polymer-theme#^0.5"
   }
 }
